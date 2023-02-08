@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_composition_5-3_accordeon/static/css/main.de3d9622.css",
+    "main.js": "/React_composition_5-3_accordeon/static/js/main.6f430622.js",
+    "index.html": "/React_composition_5-3_accordeon/index.html",
+    "main.de3d9622.css.map": "/React_composition_5-3_accordeon/static/css/main.de3d9622.css.map",
+    "main.6f430622.js.map": "/React_composition_5-3_accordeon/static/js/main.6f430622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3d9622.css",
+    "static/js/main.6f430622.js"
+  ]
+}
